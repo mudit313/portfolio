@@ -5,14 +5,14 @@
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/negomi/portfolio.git"
+    "url": "git+https://github.com/mudit313/portfolio.git"
   },
   "author": "Imogen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/negomi/portfolio/issues"
+    "url": "https://github.com/mudit313/portfolio/issues"
   },
-  "homepage": "https://github.com/negomi/portfolio#readme",
+  "homepage": "https://github.com/mudit313/portfolio#readme",
   "devDependencies": {
     "gulp": "^3.8.11",
     "gulp-autoprefixer": "^3.0.1",
