@@ -87,7 +87,10 @@
   }
 
   @include desktop {
-    @extend %center--absolute;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
   }
 
   font-size: 9px;
